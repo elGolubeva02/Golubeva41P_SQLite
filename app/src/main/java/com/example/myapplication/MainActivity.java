@@ -11,7 +11,7 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 
 import org.w3c.dom.Text;
-
+//Главный класс
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
     Button button1, button2, button3;
     EditText Txt1, Txt2;
